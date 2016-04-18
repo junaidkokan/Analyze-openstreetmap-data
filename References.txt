@@ -1,0 +1,11 @@
+# To write XML element to a file:
+https://discussions.udacity.com/t/changing-attribute-value-in-xml/44575/6
+
+# To learn Regex Python
+https://docs.python.org/2/library/re.html
+
+# UNION ALL for SQL 
+http://www.w3schools.com/sql/sql_union.asp
+
+# SQLite concatenation
+http://stackoverflow.com/questions/6134415/how-to-concatenate-strings-with-padding-in-sqlite
